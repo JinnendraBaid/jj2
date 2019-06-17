@@ -1,7 +1,19 @@
-.row-header{
-    padding:1%;
-    margin:2%;
+.row-content{
+    padding:1% 1% 1% 1%;
+    margin:1% 1% 1% 1%;
 }
-header{
-    background-color:blue;
+footer{
+    background-color:Highlight;
+}
+.jumbotron {
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background-color:magenta;
+    color: floralwhite;
+}
+
+address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
 }
